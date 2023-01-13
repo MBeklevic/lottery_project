@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/lottery_project/static/css/main.4834df25.css",
-    "main.js": "/lottery_project/static/js/main.191a84db.js",
+    "main.css": "/lottery_project/static/css/main.a93d1a52.css",
+    "main.js": "/lottery_project/static/js/main.c9329161.js",
     "static/js/787.c90eb3c1.chunk.js": "/lottery_project/static/js/787.c90eb3c1.chunk.js",
-    "static/media/logo.svg": "/lottery_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lottery_project/index.html",
-    "main.4834df25.css.map": "/lottery_project/static/css/main.4834df25.css.map",
-    "main.191a84db.js.map": "/lottery_project/static/js/main.191a84db.js.map",
+    "main.a93d1a52.css.map": "/lottery_project/static/css/main.a93d1a52.css.map",
+    "main.c9329161.js.map": "/lottery_project/static/js/main.c9329161.js.map",
     "787.c90eb3c1.chunk.js.map": "/lottery_project/static/js/787.c90eb3c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4834df25.css",
-    "static/js/main.191a84db.js"
+    "static/css/main.a93d1a52.css",
+    "static/js/main.c9329161.js"
   ]
 }
