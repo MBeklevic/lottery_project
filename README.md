@@ -11,6 +11,7 @@
 
 ## Features
 - User can play lottery by clicking the Generate button
+- Responsive Design
 
 ## Libraries
 - React
